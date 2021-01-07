@@ -47,7 +47,7 @@ git subtree push --prefix backend heroku main
 ```
 
 
-## Dependências Maven
+## Dependências 
 
 ```
 ```
@@ -55,24 +55,20 @@ git subtree push --prefix backend heroku main
 ## Classe de configuração de segurança
 
 ```
-
 ```
 
 ## Arquivos .properties de cada profile do projeto
 
 ### application.properties
 ```
-
 ```
 
 ### application-test.properties
 ```
-
 ```
 
 ### application-dev.properties
 ```
-
 ```
 
 ### application-prod.properties
